@@ -192,7 +192,8 @@
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Devshivamcodes&theme=dark&hide_border=false&background=000000&stroke=5BCEFA&border=5BCEFA&ring=5BCEFA&fire=8B9CFF&currStreakLabel=5BCEFA" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Devshivamcodes&theme=light&hide_border=false&background=ffffff&stroke=5BCEFA&border=5BCEFA&ring=5BCEFA&fire=8B9CFF&currStreakLabel=5BCEFA" media="(prefers-color-scheme: light)" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devshivamcodes&theme=light&hide_border=false&background=ffffff&stroke=5BCEFA&border=5BCEFA&ring=5BCEFA&fire=8B9CFF&currStreakLabel=5BCEFA" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devshivamcodes&theme=light&hide_border=false&cache=none&background=ffffff&stroke=5BCEFA&border=5BCEFA&ring=5BCEFA&fire=8B9CFF&currStreakLabel=5BCEFA" />
+    
   </picture>
 </div>
 
